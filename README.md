@@ -16,7 +16,10 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
 
 <br>
 
-<img align="right" height="230px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- <img align="right" height="230px" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
+<img align="right" height="230px" alt="GIF" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=nord" />
+
+<!-- <img height=220 src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=nord" /> -->
 
 ### I graduated from DPU Computer Engineering
 - ✅ Proficient in C#, Javascript, Python, SQL, HTML, and CSS
