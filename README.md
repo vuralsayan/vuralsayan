@@ -42,16 +42,7 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
 
 ### Github Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" width="100%">
-    </td>
-    <td style="padding-left: 450px;">
-      <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="100%" alt="Vural's Top Languages">
-    </td>
-  </tr>
-</table>
+ <img src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" width="50%">
 
 
 
