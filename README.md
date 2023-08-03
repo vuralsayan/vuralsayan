@@ -42,7 +42,12 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
 
 ### Github Stats
 
- <img src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" width="50%">
+<a >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" />
+</a>
+<a style="padding-left: 50px">
+  <img height=240 align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=tokyonight " />
+</a>
 
 
 
