@@ -49,12 +49,21 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
   <img height=190 align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=radical" />
 </a> -->
 
-<a>
+<!-- <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" />
 </a>
 <a>
   <img height=200 align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=radical" />
-</a>
+</a> -->
+
+<div style="display: flex; justify-content: left;">
+  <a style="padding-right: 50px;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" />
+  </a>
+  <a>
+    <img height=200 src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=radical" />
+  </a>
+</div>
 
 
 
