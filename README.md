@@ -49,8 +49,9 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
   <img height=250 align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=vuralsayan&show_icons=true&hide_border=true&theme=tokyonight " />
 </a>
 
-
-
+<a >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vuralsayan&show_icons=true&locale=en" />
+</a>
 
 
 
