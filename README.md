@@ -37,19 +37,3 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 </p>
-
-### Github Stats
-
-
-<div style="display: flex; justify-content: left;">
-  <a style="padding-right: 50px;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/?username=vuralsayan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292e" />
-  </a>
-</div>
-
-
-
-
-
-
-
