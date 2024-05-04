@@ -1,7 +1,4 @@
  ![Vural Sayan Banner](banner.png) 
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
 
 <p 
 align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=Profile%20views&color=0e75b6&style=flat" alt="vuralsayan" /> 
