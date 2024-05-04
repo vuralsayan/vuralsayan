@@ -14,8 +14,8 @@ align="center"> <img src="https://komarev.com/ghpvc/?username=vuralsayan&label=P
 <br>
 
 ### I graduated from DPU Computer Engineering
-- ✅ Proficient in C#, Javascript, Python, SQL, HTML, and CSS
-- 💻 Focused on developing skills in **ASP.NET**
+- ✅ Proficient in C#, .NET Core, SQL, HTML, and CSS
+- 💻 Focused on developing skills in **.NET Core**
 - 🌱 Enthusiastic about learning new technologies
 - 🔧 Actively seeks opportunities to enhance technical skills and experience
 - 🤝 Strong collaboration and communication abilities
